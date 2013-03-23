@@ -1,3 +1,6 @@
 [submodule "modules/tor"]
 	path = modules/tor
 	url = https://github.com/duritong/puppet-tor.git
+[submodule "modules/vlc"]
+	path = modules/vlc
+	url = https://github.com/boxen/puppet-vlc.git
