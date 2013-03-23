@@ -1,0 +1,3 @@
+[submodule "modules/tor"]
+	path = modules/tor
+	url = https://github.com/duritong/puppet-tor.git
