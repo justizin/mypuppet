@@ -4,3 +4,6 @@
 [submodule "modules/vlc"]
 	path = modules/vlc
 	url = https://github.com/boxen/puppet-vlc.git
+[submodule "modules/spotify"]
+	path = modules/spotify
+	url = https://github.com/garethr/garethr-spotify.git
