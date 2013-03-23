@@ -7,3 +7,6 @@
 [submodule "modules/spotify"]
 	path = modules/spotify
 	url = https://github.com/garethr/garethr-spotify.git
+[submodule "modules/vagrant"]
+	path = modules/vagrant
+	url = https://github.com/example42/puppet-vagrant.git
