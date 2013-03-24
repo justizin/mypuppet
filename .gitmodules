@@ -10,3 +10,15 @@
 [submodule "modules/vagrant"]
 	path = modules/vagrant
 	url = https://github.com/example42/puppet-vagrant.git
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "puppetlabs-stdlib"]
+	path = puppetlabs-stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/puppetlabs-stdlib"]
+	path = modules/puppetlabs-stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/tmux"]
+	path = modules/tmux
+	url = https://github.com/duritong/puppet-tmux.git
